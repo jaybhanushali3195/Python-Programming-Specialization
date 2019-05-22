@@ -1,7 +1,7 @@
 # Python-Programming-Specialization
-<p>Includes 2 projects
-<p>1)Object oriented programming
- <p>Made a simplified version of Wheel Of fortune game.
+Includes 2 projects<br/>
+1)Object oriented programming<br/>
+Made a simplified version of Wheel Of fortune game.<br/>
 
 <p>2)Image manipulation,Optical character recognision,Computer Vision
  <p>Used PIL,pytesseract,kraken,cv2,numpy to make a program that does the following 3 things automatically
